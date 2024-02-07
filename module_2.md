@@ -50,10 +50,10 @@ How many columns need to be renamed to snake case?
 
 Once exported, how many partitions (folders) are present in Google Cloud?
 
-- [x]96
-- [ ]56
-- [ ]67
-- [ ]108
+- [x] 96
+- [ ] 56
+- [ ] 67
+- [ ] 108
 
 ## Submitting the solutions
 
